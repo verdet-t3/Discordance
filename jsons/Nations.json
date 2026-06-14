@@ -1,5 +1,77 @@
 [
 	{
+		"name": "Dolphinia",
+		"leaderName": "Sergius Verdette",
+		"adjective": ["dolphinien"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Life has tossed Dolphinia around. Throughout her entire adult life, the country has been plagued by crises, one way or another. Sometimes these crises arose due to external circumstances, while other times, these catastrophes were the result of incompetent leadership that didn't understand what it was dealing with. Her people have been filled with endless sorrow at various points in their homeland's existence, but they have also been filled with immeasurable joy at various events, from small victories to great tragedies. However, this is how steel is tempered. Crooked and crooked, but this is how the people of Dolphinia have hardened, in a good way. And now they cannot be broken...",
+		"startIntroPart2": "The reins of this beautiful country are entrusted to you. It is in your best interests to make it great, unique, and perfect. This is a unique culture, a unique life, which, no matter what, will always be known. Its victory... It is extraordinary. For it remains in the minds of all who have ever encountered it. Such is Dolphinia. And its potential is incalculably vast. Take good care of your homeland and yourselves...",
+		
+		"declaringWar": "I'm no fan of war, but you forced me to. Your, to put it bluntly, empty talk, your desire to show off your strength... Everyone is so sick of it. You radiate your envy of others, your weakness, your inferiority, your worthlessness, your mediocrity, your stupidity... Why show off? Descend to hell, you scum, what are you doing here? And yet you're still trying to assert yourself at the expense of others... What a cretin you are, huh?",
+		"attacked": "And though I often lost tactically, I always won strategically... And you seemed like a nice person at first, but in reality... Ah... Anyway, enough with the lyricism. It's not worth talking to a fool. And especially not to someone who starts wars. Such people are only fit for a stake. And that's putting it mildly...",
+		"defeated": "I'll learn my lesson from this. And maybe I'll come back with a vengeance. Or maybe I'll rise above this game, which wasn't even worth the candle.",
+		"introduction": "Wars are for the shallow. As you can see, I'm not one of those, though I'm shy. But anyway, let's get acquainted: I'm Sergius Verdette, quite ambitious, but I don't step on people and try to see only the good in them. And who are you?",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["Seratte","Pearlmyaut","Erotette","Verdette","Heromitte","Raifont","Akarat","Cheriefont","Singehit",
+			"98","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name": "Aliens",
+		"leaderName": "Zyxxyz",
+		"adjective": ["alien"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		
+		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"attacked": "You want to play? Very funny!",
+		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
+		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"unique": "MANIFEST_DESTINY",
+		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
+			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
+			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
 		"name": "Aliens",
 		"leaderName": "Zyxxyz",
 		"adjective": ["alien"],
